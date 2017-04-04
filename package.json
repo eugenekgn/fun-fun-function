@@ -1,0 +1,9 @@
+{
+  "name": "funfunfunction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eugenekgn/fun-fun-function.git",
+  "author": "Eugene Kagan",
+  "license": "MIT",
+  "dependencies": {}
+}
