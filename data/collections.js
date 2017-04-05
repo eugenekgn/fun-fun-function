@@ -9,6 +9,14 @@ const animals = [
   { name: 'Jimmy', species: 'fish' },
 ];
 
+const orders = [
+  {amount: 250},
+  {amount: 400},
+  {amount: 100},
+  {amount: 325},
+]
+
 module.exports ={
-  animals
+  animals,
+  orders
 };

@@ -1,6 +1,6 @@
 'use strict';
 
-const collections = require('./data/collections');
+const collections = require('../data/collections');
 
 // map - iterates through an array transforming values 
 
