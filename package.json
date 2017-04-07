@@ -5,5 +5,12 @@
   "repository": "git@github.com:eugenekgn/fun-fun-function.git",
   "author": "Eugene Kagan",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-node7": "^1.5.0",
+    "babel-preset-stage-3": "^6.22.0"
+  },
+  "presets": [
+    "stage-3"
+  ]
 }
